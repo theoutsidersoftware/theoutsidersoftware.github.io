@@ -6,6 +6,8 @@
 
 A Minimal extra_drops.sev Editor for Perfect World.
 
+![Screenshot of mEXTRADROPSedit](https://github.com/theoutsidersoftware/mEXTRADROPSedit/raw/master/img/main.png)
+
 ### [mSKILLSoctet](https://github.com/theoutsidersoftware/mSKILLSoctet)
 
 A Minimal Skills Octet Tool for Perfect World.
