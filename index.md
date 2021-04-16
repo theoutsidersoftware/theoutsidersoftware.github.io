@@ -4,7 +4,7 @@
 
 ### [mEXTRADROPSedit](https://github.com/theoutsidersoftware/mEXTRADROPSedit)
 
-
+A Minimal extra_drops.sev Editor for Perfect World.
 
 ### [mSKILLSoctet](https://github.com/theoutsidersoftware/mSKILLSoctet)
 
